@@ -214,7 +214,7 @@ body {
     margin:0% 1%;
     }
     
-    @media (max-width:720px){
+/*     @media (max-width:720px){
     .footer{
     text-align:left;
     padding:3%;
@@ -227,7 +227,7 @@ body {
     .footer .row a i{
     margin:0% 3%;
     }
-    }
+    } */
 
     /* the orange banner in all child pages */
 
